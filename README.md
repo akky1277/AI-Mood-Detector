@@ -1,9 +1,9 @@
-# 🧠 AI Mood Detector from Text
+#  AI Mood Detector from Text
 > B.Tech Final Year Project | NLP + Machine Learning | Python + Flask
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai_mood_detector/
@@ -20,7 +20,7 @@ ai_mood_detector/
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### Install dependencies
 ```bash
@@ -40,7 +40,7 @@ python run_cli.py
 
 ---
 
-## 🤖 How the AI Works (Step by Step)
+##  How the AI Works (Step by Step)
 
 ```
 User Input Text
@@ -69,7 +69,7 @@ User Input Text
 
 ---
 
-## 📊 Emotions Detected
+##  Emotions Detected
 
 | Emotion   | Emoji | Example Sentence                          |
 |-----------|-------|-------------------------------------------|
@@ -82,7 +82,7 @@ User Input Text
 
 ---
 
-## 🔬 Tech Stack
+##  Tech Stack
 
 | Layer         | Technology                          |
 |---------------|-------------------------------------|
@@ -95,7 +95,7 @@ User Input Text
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 1. **Larger Dataset** – Load CSV with 10,000+ real labeled tweets/reviews
 2. **Deep Learning** – Replace Logistic Regression with LSTM or BERT
@@ -108,7 +108,7 @@ User Input Text
 
 ---
 
-## 🎤 Presentation Script (Speak This to Your Audience)
+##  Presentation Script (Speak This to Your Audience)
 
 ---
 
